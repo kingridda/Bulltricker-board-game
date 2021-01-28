@@ -12,3 +12,15 @@ learn more on:http://www.bulltricker.com/overview_rules.html
 - use Code::Blocks to open the project
 
 # Screenshots
+
+- welcome page
+
+![welcome](screenshots/welcome.JPG?raw=true "Title")
+
+- gameplay
+
+![welcome](screenshots/play.JPG?raw=true "Title")
+
+- win
+
+![welcome](screenshots/win.JPG?raw=true "Title")
