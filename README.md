@@ -28,6 +28,6 @@ learn more on:http://www.bulltricker.com/overview_rules.html
 
 - some images
 
-![play](screenshots/play.JPG?raw=true "Title")
 ![welcome](screenshots/welcome.JPG?raw=true "Title")
+![play](screenshots/play.JPG?raw=true "Title")
 ![welcome](screenshots/win.JPG?raw=true "Title")
