@@ -15,12 +15,19 @@ learn more on:http://www.bulltricker.com/overview_rules.html
 
 - welcome page
 
-![welcome](screenshots/welcome.JPG?raw=true "Title")
+![welcome](screenshots/intro.gif?raw=true "Title")
 
 - gameplay
 
-![welcome](screenshots/play.JPG?raw=true "Title")
+![welcome](screenshots/moves.gif?raw=true "Title")
+
 
 - win
 
+![welcome](screenshots/outro.gif?raw=true "Title")
+
+- some images
+
+![play](screenshots/play.JPG?raw=true "Title")
+![welcome](screenshots/welcome.JPG?raw=true "Title")
 ![welcome](screenshots/win.JPG?raw=true "Title")
